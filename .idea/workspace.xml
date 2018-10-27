@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da5b961f-9828-4041-aa11-c852ee28fd79" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4491654">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/public/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main_controller.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main_controller.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                  <folding>
+                    <element signature="e#6#32#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/db.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/templates/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="14" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_header.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/_header.php">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/_footer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="_nav.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/templates/_nav.php">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="main_controller.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main_controller.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>products</find>
+      <find>getRatingByTutorialForMember</find>
+      <find>rating</find>
+      <find>ByTutorial</find>
+      <find>getRatingByProductsForMember</find>
+      <find>getProductsByTutorial</find>
+      <find>ul</find>
+      <find>getRatingByTutorial</find>
+      <find>rating_total</find>
+      <find>index</find>
+      <find>logged_in</find>
+      <find>active</find>
+      <find>php</find>
+      <find>Index</find>
+      <find>id</find>
+      <find>title</find>
+      <find>admin</find>
+      <find>sess</find>
+      <find>1</find>
+      <find>add</find>
+      <find>searc</find>
+      <find>tutorial</find>
+      <find>addRating</find>
+      <find>style</find>
+      <find>$member_id</find>
+      <find>member_id</find>
+      <find>.php</find>
+      <find>check</find>
+      <find>js/</find>
+      <find>d</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$result</replace>
+      <replace>$mysqli</replace>
+      <replace>db</replace>
+      <replace>p_name</replace>
+      <replace>description</replace>
+      <replace>products</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/search.php" />
+        <option value="$PROJECT_DIR$/public/search.php" />
+        <option value="$PROJECT_DIR$/public/forum/styles/prosilver/template/overall_header.html" />
+        <option value="$PROJECT_DIR$/templates/verify.php" />
+        <option value="$PROJECT_DIR$/templates/profile.php" />
+        <option value="$PROJECT_DIR$/templates/register.php" />
+        <option value="$PROJECT_DIR$/public/css/admin.css" />
+        <option value="$PROJECT_DIR$/templates/sever.php" />
+        <option value="$PROJECT_DIR$/templates/server.php" />
+        <option value="$PROJECT_DIR$/templates/adminUpdate.php" />
+        <option value="$PROJECT_DIR$/public/admin/db.php" />
+        <option value="$PROJECT_DIR$/public/admin/add_user.php" />
+        <option value="$PROJECT_DIR$/public/admin/edit_user.php" />
+        <option value="$PROJECT_DIR$/public/admin/delete_user.php" />
+        <option value="$PROJECT_DIR$/public/admin/index.php" />
+        <option value="$PROJECT_DIR$/templates/content_function.php" />
+        <option value="$PROJECT_DIR$/templates/home.php" />
+        <option value="$PROJECT_DIR$/templates/_footer.php" />
+        <option value="$PROJECT_DIR$/templates/admin/add_update.php" />
+        <option value="$PROJECT_DIR$/templates/admin/delete_update.php" />
+        <option value="$PROJECT_DIR$/templates/admin/delete_user.php" />
+        <option value="$PROJECT_DIR$/templates/admin/admin.php" />
+        <option value="$PROJECT_DIR$/public/css/styles.css" />
+        <option value="$PROJECT_DIR$/templates/admin/add_user.php" />
+        <option value="$PROJECT_DIR$/templates/admin/edit_user.php" />
+        <option value="$PROJECT_DIR$/templates/admin/edit_update.php" />
+        <option value="$PROJECT_DIR$/templates/reset.php" />
+        <option value="$PROJECT_DIR$/templates/reset_password.php" />
+        <option value="$PROJECT_DIR$/templates/forgot.php" />
+        <option value="$PROJECT_DIR$/templates/rating/rating.js" />
+        <option value="$PROJECT_DIR$/templates/rating/index.php" />
+        <option value="$PROJECT_DIR$/templates/login.php" />
+        <option value="$PROJECT_DIR$/public/rating/index.php" />
+        <option value="$PROJECT_DIR$/templates/Rate.php" />
+        <option value="$PROJECT_DIR$/templates/rating.php" />
+        <option value="$PROJECT_DIR$/templates/rating/jquery-3.2.1.min.js" />
+        <option value="$PROJECT_DIR$/public/rating.php" />
+        <option value="$PROJECT_DIR$/templates/rating/DBController.php" />
+        <option value="$PROJECT_DIR$/templates/rating/Rate.php" />
+        <option value="$PROJECT_DIR$/templates/rating/add_rating.php" />
+        <option value="$PROJECT_DIR$/public/css/rating.css" />
+        <option value="$PROJECT_DIR$/templates/rating/rating.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/templates/billing.php" />
+        <option value="$PROJECT_DIR$/templates/function.php" />
+        <option value="$PROJECT_DIR$/templates/cart.php" />
+        <option value="$PROJECT_DIR$/templates/about.php" />
+        <option value="$PROJECT_DIR$/templates/_nav.php" />
+        <option value="$PROJECT_DIR$/templates/db.php" />
+        <option value="$PROJECT_DIR$/templates/index.php" />
+        <option value="$PROJECT_DIR$/src/main_controller.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="614" />
+    <option name="y" value="385" />
+    <option name="width" value="1825" />
+    <option name="height" value="971" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpParamsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Amazon Redshift" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wikto\Desktop\Proj\website\public\js" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\public\css" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\public" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\templates\rating" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wikto\Desktop\web\website\templates" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\templates\rating" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\templates" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\public" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\templates\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da5b961f-9828-4041-aa11-c852ee28fd79" name="Default" comment="" />
+      <created>1520329985657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520329985657</updated>
+      <workItem from="1520329986875" duration="1803000" />
+      <workItem from="1520331915277" duration="14573000" />
+      <workItem from="1522185551424" duration="894000" />
+      <workItem from="1522265459418" duration="7061000" />
+      <workItem from="1522273011878" duration="292000" />
+      <workItem from="1522614847265" duration="13684000" />
+      <workItem from="1522713233623" duration="16299000" />
+      <workItem from="1522861397803" duration="82000" />
+      <workItem from="1522861490554" duration="55000" />
+      <workItem from="1523376355524" duration="37858000" />
+      <workItem from="1523551965273" duration="22811000" />
+      <workItem from="1524076743849" duration="12442000" />
+      <workItem from="1524163624162" duration="12763000" />
+      <workItem from="1524233504205" duration="23081000" />
+      <workItem from="1524319155581" duration="14685000" />
+      <workItem from="1524336533915" duration="1289000" />
+      <workItem from="1524340420157" duration="2810000" />
+      <workItem from="1524343240287" duration="5610000" />
+      <workItem from="1524349661716" duration="5000" />
+      <workItem from="1524424530631" duration="1106000" />
+      <workItem from="1524431768017" duration="1373000" />
+      <workItem from="1524498396276" duration="10751000" />
+      <workItem from="1524576861296" duration="1973000" />
+      <workItem from="1524592341473" duration="5479000" />
+      <workItem from="1524649321779" duration="2702000" />
+      <workItem from="1540646484292" duration="1856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="213337000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="614" y="385" width="1825" height="971" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17110482" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32942098" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50054526" side_tool="true" weight="0.32820514" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3298887" />
+      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32883316" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49945474" weight="0.35589743" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29812983" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/templates/rating/rating.php</url>
+          <line>90</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/admin/edit_user.php" />
+    <entry file="file://$PROJECT_DIR$/public/admin/delete_user.php" />
+    <entry file="file://$PROJECT_DIR$/public/admin/db.php" />
+    <entry file="file://$PROJECT_DIR$/public/admin/add_user.php" />
+    <entry file="file://$PROJECT_DIR$/public/admin/index.php" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/delete_update.php" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/admin.php" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_update.php" />
+    <entry file="file://$PROJECT_DIR$/public/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/delete_user.php" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/edit_user.php" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/edit_update.php" />
+    <entry file="file://$PROJECT_DIR$/templates/forgot.php" />
+    <entry file="file://$PROJECT_DIR$/public/rating/jquery-3.2.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/templates/rating/rating.js" />
+    <entry file="file://$PROJECT_DIR$/public/rating/Rate.php" />
+    <entry file="file://$PROJECT_DIR$/templates/profile.php" />
+    <entry file="file://$PROJECT_DIR$/templates/reset.php" />
+    <entry file="file://$PROJECT_DIR$/templates/reset_password.php" />
+    <entry file="file://$PROJECT_DIR$/templates/server.php" />
+    <entry file="file://$PROJECT_DIR$/templates/shop.php" />
+    <entry file="file://$PROJECT_DIR$/templates/verify.php" />
+    <entry file="file://$PROJECT_DIR$/public/rating/index.php" />
+    <entry file="file://$PROJECT_DIR$/templates/rating/rating.php" />
+    <entry file="file://$PROJECT_DIR$/templates/DBController.php" />
+    <entry file="file://$PROJECT_DIR$/templates/Rate.php" />
+    <entry file="file://$PROJECT_DIR$/templates/rating.php" />
+    <entry file="file://$PROJECT_DIR$/templates/add_rating.php" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_user.php" />
+    <entry file="file://$PROJECT_DIR$/public/forum/vendor/ocramius/proxy-manager/examples/remote-proxy.php" />
+    <entry file="file://$PROJECT_DIR$/src/user_controller.php" />
+    <entry file="file://$PROJECT_DIR$/public/js/jquery-3.2.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/templates/register.php" />
+    <entry file="file://$PROJECT_DIR$/templates/rating/DBController.php" />
+    <entry file="file://$PROJECT_DIR$/templates/rating/add_rating.php" />
+    <entry file="file://$PROJECT_DIR$/public/css/rating.css" />
+    <entry file="file://$PROJECT_DIR$/templates/cart.php" />
+    <entry file="file://$PROJECT_DIR$/templates/home.php" />
+    <entry file="file://$PROJECT_DIR$/templates/about.php" />
+    <entry file="file://$PROJECT_DIR$/templates/billing.php" />
+    <entry file="file://$PROJECT_DIR$/templates/rating/Rate.php" />
+    <entry file="file://$PROJECT_DIR$/templates/function.php" />
+    <entry file="file://$PROJECT_DIR$/templates/rating/rating.php" />
+    <entry file="file://$PROJECT_DIR$/templates/login.php" />
+    <entry file="file://$PROJECT_DIR$/templates/_header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#6#32#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_nav.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
