@@ -3,7 +3,4 @@ php website
 
 TODO
 -
-<li>
-
-Create initial base index page
-</li>
+<li>Create initial base index page</li>
