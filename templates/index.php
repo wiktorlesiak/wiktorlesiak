@@ -70,13 +70,14 @@
             <ul class="main-nav nav navbar-nav navbar-right">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
-
                 <li class="has-dropdown"><a href="#blog">Posts</a>
                     <ul class="dropdown">
                         <li><a href="blog-single.html">Latest Posts </a></li>
                     </ul>
                 </li>
                 <li><a href="#contact">Contact</a></li>
+                <li><a href="#login">Log In</a></li>
+                <li><a href="#signup">Sign Up</a></li>
             </ul>
             <!-- /Main navigation -->
 
@@ -128,7 +129,7 @@
             <div class="col-md-4">
                 <div class="about">
                     <i class="fa fa-github"></i>
-                    <h3>Fully Customizible</h3>
+                    <h3>GitHub</h3>
                     <p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet.</p>
                     <a href="#">Read more</a>
                 </div>
@@ -139,7 +140,7 @@
             <div class="col-md-4">
                 <div class="about">
                     <i class="fa fa-code"></i>
-                    <h3>Awesome Features</h3>
+                    <h3>Code/Projects</h3>
                     <p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet.</p>
                     <a href="#">Read more</a>
                 </div>
@@ -149,8 +150,8 @@
             <!-- about -->
             <div class="col-md-4">
                 <div class="about">
-                    <i class="fa fa-calendar"></i>
-                    <h3>Fully Responsive</h3>
+                    <i class="fa fa-list-alt"></i>
+                    <h3>Posts</h3>
                     <p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet.</p>
                     <a href="#">Read more</a>
                 </div>
