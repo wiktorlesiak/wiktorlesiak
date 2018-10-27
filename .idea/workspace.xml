@@ -30,90 +30,68 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4491654">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/public/index.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main_controller.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main_controller.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="16" selection-start-line="16" selection-end-line="16" />
-                  <folding>
-                    <element signature="e#6#32#0#PHP" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/db.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" selection-start-line="7" selection-end-line="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/templates/index.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="autoload_real.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/_footer.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main_controller.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main_controller.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-                  <folding>
-                    <element signature="e#6#32#0#PHP" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#6#32#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="723">
+              <caret line="151" column="44" selection-start-line="151" selection-start-column="44" selection-end-line="151" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/_footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,7 +102,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>products</find>
       <find>getRatingByTutorialForMember</find>
       <find>rating</find>
       <find>ByTutorial</find>
@@ -154,6 +131,7 @@
       <find>check</find>
       <find>js/</find>
       <find>d</find>
+      <find>logo</find>
     </findStrings>
     <replaceStrings>
       <replace>$result</replace>
@@ -243,10 +221,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="86" />
-    <option name="width" value="1756" />
-    <option name="height" value="922" />
+    <option name="x" value="289" />
+    <option name="y" value="139" />
+    <option name="width" value="2052" />
+    <option name="height" value="1198" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -286,17 +264,17 @@
             <path>
               <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
               <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
               <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wiktorlesiak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiktorlesiak" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -312,19 +290,19 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\wikto\Desktop\Proj\website\public\js" />
-      <recent name="C:\Users\wikto\Desktop\Proj\website\public\css" />
-      <recent name="C:\Users\wikto\Desktop\Proj\website\public" />
-      <recent name="C:\Users\wikto\Desktop\Proj\website\templates\rating" />
-      <recent name="C:\Users\wikto\Desktop\Proj\website\templates" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\wikto\Desktop\web\website\templates" />
       <recent name="C:\Users\wikto\Desktop\Proj\website\templates\rating" />
       <recent name="C:\Users\wikto\Desktop\Proj\website\templates" />
       <recent name="C:\Users\wikto\Desktop\Proj\website\public" />
       <recent name="C:\Users\wikto\Desktop\Proj\website\templates\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wikto\Desktop\CMP\website\wiktorlesiak\templates" />
+      <recent name="C:\Users\wikto\Desktop\CMP\website\wiktorlesiak\src" />
+      <recent name="C:\Users\wikto\Desktop\CMP\website\wiktorlesiak\vendor" />
+      <recent name="C:\Users\wikto\Desktop\CMP\website\wiktorlesiak\public" />
+      <recent name="C:\Users\wikto\Desktop\Proj\website\public\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -376,11 +354,12 @@
       <workItem from="1524649321779" duration="2702000" />
       <workItem from="1540646484292" duration="1856000" />
       <workItem from="1540653956465" duration="705000" />
+      <workItem from="1540678873260" duration="3005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214042000" />
+    <option name="totallyTimeSpent" value="217047000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,19 +371,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="86" width="1756" height="922" extended-state="0" />
+    <frame x="289" y="139" width="2052" height="1198" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1798349" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32942098" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50054526" side_tool="true" weight="0.32820514" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3298887" />
-      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32883316" />
+      <window_info anchor="bottom" id="Database Changes" order="8" visible="true" weight="0.15" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49945474" weight="0.35589743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15461847" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3298887" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29705215" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,7 +393,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.29812983" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,9 +414,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/admin/edit_user.php" />
-    <entry file="file://$PROJECT_DIR$/public/admin/delete_user.php" />
-    <entry file="file://$PROJECT_DIR$/public/admin/db.php" />
     <entry file="file://$PROJECT_DIR$/public/admin/add_user.php" />
     <entry file="file://$PROJECT_DIR$/public/admin/index.php" />
     <entry file="file://$PROJECT_DIR$/templates/admin/delete_update.php" />
@@ -486,23 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main_controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#6#32#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/db.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -513,17 +472,52 @@
     <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog-single.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#6#32#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/background3.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state relative-caret-position="723">
+          <caret line="151" column="44" selection-start-line="151" selection-start-column="44" selection-end-line="151" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
