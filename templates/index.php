@@ -8,6 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <title>Wiktor Lesiak</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
 
     <!-- Google font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
@@ -76,8 +77,8 @@
                     </ul>
                 </li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="#login">Log In</a></li>
-                <li><a href="#signup">Sign Up</a></li>
+                <li><a href="index.php?action=signin">Log In</a></li>
+                <li><a href="index.php?action=signup">Sign Up</a></li>
             </ul>
             <!-- /Main navigation -->
 

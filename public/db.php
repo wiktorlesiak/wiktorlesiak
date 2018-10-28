@@ -2,6 +2,6 @@
 /* Database connection settings */
 $host = 'localhost';
 $user = 'root';
-$pass = 'admin';
-//$db = 'enterdatabase';
+$pass = 'root';
+$db = 'wiktorlesiak';
 //$mysqli = new mysqli($host,$user,$pass,$db) or die($mysqli->error);
