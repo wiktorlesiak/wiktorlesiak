@@ -9,16 +9,15 @@ session_destroy();
 <head>
   <meta charset="UTF-8">
   <title>Error</title>
-  <?php include 'css/css.html'; ?>
 </head>
 
 <body>
     <div class="form">
-          <h1>Thanks for stopping by Portal Gaming</h1>
+          <h1>Thanks for stopping by</h1>
               
           <p><?= 'You have been logged out!'; ?></p>
           
-          <a href="index.php?action=index"><button class="button button-block"/>Home</button></a>
+          <a href="index.php?action=main"><button class="button button-block"/>Home</button></a>
 
     </div>
 </body>

@@ -4,9 +4,9 @@
  */
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'portalgaming');
+define('DB_NAME', 'wiktorlesiak');
 define('DB_USER', 'root');
-define('DB_PASS', 'admin');
+define('DB_PASS', 'root');
 
 
 function index_action()
@@ -29,7 +29,7 @@ function profile_action()
 
     function logout_action()
     {
-        require_once __DIR__ . '/../templates/login/logout.php';
+        require_once __DIR__ . '/../templates/logout.php';
     }
 
     function error_action()

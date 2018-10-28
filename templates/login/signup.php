@@ -65,10 +65,46 @@ else {
 
     <header id="home">
         <!-- Background Image -->
-        <div class="bg-img" style="background-image: url('./img/background1.jpg');">
+        <div class="bg-img" style="background-image: url('./img/background3.jpg');">
             <div class="overlay"></div>
         </div>
+        <!-- /Background Image-->
+        <!-- Nav -->
+        <nav id="nav" class="navbar nav-transparent">
+            <div class="container">
 
+                <div class="navbar-header">
+                    <!-- Logo -->
+                    <div class="navbar-brand">
+                        <a href="index.php?action=main">
+                            <img class="logo" src="img/logo.png" alt="logo">
+                            <img class="logo-alt" src="img/logo-alt.png" alt="logo">
+                        </a>
+                    </div>
+                    <!-- /Logo -->
+                    <!-- Collapse nav button -->
+                    <div class="nav-collapse">
+                        <span></span>
+                    </div>
+                    <!-- /Collapse nav button -->
+                </div>
+                <!--  Main navigation  -->
+                <ul class="main-nav nav navbar-nav navbar-right">
+                    <li><a href="index.php?action=main">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li class="has-dropdown"><a href="#blog">Posts</a>
+                        <ul class="dropdown">
+                            <li><a href="blog-single.html">Latest Posts </a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="index.php?action=signin">Log In</a></li>
+                    <li><a href="index.php?action=signup">Sign Up</a></li>
+                </ul>
+                <!-- /Main navigation -->
+            </div>
+        </nav>
+        <!-- /Nav -->
         <div class="home-wrapper">
             <div class="container">
                 <div class="row">
@@ -79,7 +115,7 @@ else {
                 <form action="index.php?action=signup" method="post" autocomplete="off" class="contact-form">
                             <div class="col-md-8 col-md-offset-2">
                                     <input type="text" required autocomplete="off" name='firstname' class="input" placeholder="Name"/>
-                                    <input type="text" required autocomplete="off" name='lastname' class="input" placeholder="Surname"/>
+                                        <input type="text" required autocomplete="off" name='lastname' class="input" placeholder="Surname"/>
                                     <input type="email" required autocomplete="off" name='email' class="input" placeholder="Email"/>
                                     <input type="password" required autocomplete="off" name='password' class="input" placeholder="Password"/>
                                     <button class="main-btn" type="submit" name="register">Register</button>
@@ -90,19 +126,37 @@ else {
                 </div>
             </div>
         </div>
-             </form>
-            </div>
-        </div><!-- tab-content -->
-    </div> <!-- /form -->
-            </div>
-        </div>
+
     </header>
+
+    <!-- /Preloader -->
+    <?php require_once __DIR__ . '\..\_footer.php' ?>
+
+    <!-- Back to top -->
+    <div id="back-to-top"></div>
+    <!-- /Back to top -->
+
     </body>
-</html>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="preloader">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+    <!-- /Preloader -->
 
-
+    <!-- jQuery Plugins -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-
+     </body>
+</html>
     <?php
 }
 ?>
