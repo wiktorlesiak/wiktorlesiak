@@ -26,11 +26,11 @@ function profile_action()
 {
     require_once __DIR__ . '/../templates/login/profile.php';
 
-
-    function logout_action()
-    {
-        require_once __DIR__ . '/../templates/logout.php';
-    }
+}
+function logout_action()
+{
+    require_once __DIR__ . '/../templates/login/logout.php';
+}
 
     function error_action()
     {
@@ -74,7 +74,7 @@ function profile_action()
     function database_action()
     {
         require_once __DIR__ . '/../templates/login/db.php';
-    }
+
 }
 
 
