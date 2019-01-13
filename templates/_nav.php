@@ -38,7 +38,7 @@ session_start();
             <li><a href="#contact">Contact</a></li>
             <li class="has-dropdown"><a href="#blog">Posts</a>
                 <ul class="dropdown">
-                    <li><a href="blog-single.html">Latest Posts </a></li>
+                    <li><a href="index.php?action=blog">Latest Posts </a></li>
                 </ul>
             </li>
 

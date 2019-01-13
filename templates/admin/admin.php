@@ -2,7 +2,11 @@
 
 require_once __DIR__ . '/../_header.php';
 ?>
-
+<header id="home">
+    <!-- Background Image -->
+    <div class="bg-img" style="background-image: url('./img/background6.jpg');">
+        <div class="overlay"></div>
+    </div>
 <?php
 require_once __DIR__ . '/../_nav.php';
 
@@ -61,6 +65,8 @@ $result = mysqli_query($conn,$sql);
 
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
+
 </head>
 <body>
 
@@ -77,18 +83,18 @@ $result = mysqli_query($conn,$sql);
         <div id="about" class="section md-padding">
 
             <!-- Container -->
-            <div class="container">
+            <div class="container w3-border">
 
                 <!-- Row -->
                 <div class="row">
 
                     <!-- Section header -->
                     <div class="section-header text-center">
-        <h1 class="title">DEV UPDATE EDIT</h1>
+        <h1 style="color: lightgray"class="title">DEV UPDATE EDIT</h1>
         <hr>
         <div class="message"><?php if(isset($message)) { echo $message; } ?></div>
         <div align="left" style="padding-bottom:5px;"><a href="index.php?action=add_update" class="link"> Add Update</a></div>
-        <table border="0" cellpadding="10" cellspacing="1" class="tblListForm">
+        <table border="2" cellpadding="10" cellspacing="1" class="tblListForm">
             <tr class="listheader">
                 <td>ID</td>
                 <td>Title</td>
