@@ -73,7 +73,7 @@
                 <li><a href="#about">About</a></li>
                 <li class="has-dropdown"><a href="#blog">Posts</a>
                     <ul class="dropdown">
-                        <li><a href="blog-single.html">Latest Posts </a></li>
+                        <li><a href="post.html">Latest Posts </a></li>
                     </ul>
                 </li>
                 <li><a href="#contact">Contact</a></li>
@@ -95,10 +95,10 @@
                 <div class="col-md-10 col-md-offset-1">
                     <div class="home-content">
                         <h1 class="white-text">Wiktor Lesiak</h1>
-                        <p class="white-text">Creating Java, C, Python, C#, PHP, HTML5, jQuery, AngularJS
+                        <p class="white-text">Creating Java, C, SQL, Python, C#, PHP, HTML5, jQuery, AngularJS
                         </p>
-                        <button class="white-btn">More</button>
-                        <button class="main-btn">Learn more</button>
+                        <a href="#about"> <button class="white-btn">More</button> </a>
+                        <a href="#contact"> <button class="main-btn">Get In Touch</button> </a>
                     </div>
                 </div>
                 <!-- /home content -->
@@ -220,12 +220,13 @@
             <!-- contact form -->
             <div class="col-md-8 col-md-offset-2">
                 <form class="contact-form">
-                    <input type="text" class="input" placeholder="Name">
-                    <input type="email" class="input" placeholder="Email">
-                    <input type="text" class="input" placeholder="Subject">
+                    <input type="text" class="input" name="name" placeholder="Name">
+                    <input type="email" class="input" name="mail" placeholder="Email">
+                    <input type="text" class="input" name="subject" placeholder="Subject">
                     <textarea class="input" placeholder="Message"></textarea>
-                    <button class="main-btn">Send message</button>
+                    <button type="submit" name="submit" class="main-btn">Send message</button>
                 </form>
+
             </div>
             <!-- /contact form -->
 

@@ -71,10 +71,13 @@ function logout_action()
     {
         require_once __DIR__ . '/../templates/login/reset_password.php';
     }
+    function post_action()
+    {
+    require_once __DIR__ . '/../templates/login/reset_password.php';
+    }
     function database_action()
     {
-        require_once __DIR__ . '/../templates/login/db.php';
-
+        require_once __DIR__ . '/../templates/login/config.php';
 }
 
 

@@ -17,7 +17,6 @@ switch ($action) {
     case 'profile':
         profile_action();
         break;
-
     case 'error':
         error_action();
         break;

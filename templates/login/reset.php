@@ -2,7 +2,7 @@
 /* The password reset form, the link to this page is included
    from the forgot.php email message
 */
-require 'db.php';
+require 'config.php';
 session_start();
 
 // Make sure email and hash variables aren't empty
@@ -30,7 +30,6 @@ else {
 <head>
   <meta charset="UTF-8">
   <title>Reset Your Password</title>
-  <?php include 'css/css.html'; ?>
 </head>
 
 <body>
