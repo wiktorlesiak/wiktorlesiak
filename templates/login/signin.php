@@ -71,43 +71,7 @@ else {
         </div>
         <!-- /Background Image -->
         <!-- Nav -->
-        <nav id="nav" class="navbar nav-transparent">
-            <div class="container">
-
-                <div class="navbar-header">
-                    <!-- Logo -->
-                    <div class="navbar-brand">
-                        <a href="index.php?action=main">
-                            <img class="logo" src="img/logo.png" alt="logo">
-                            <img class="logo-alt" src="img/logo-alt.png" alt="logo">
-                        </a>
-                    </div>
-                    <!-- /Logo -->
-
-                    <!-- Collapse nav button -->
-                    <div class="nav-collapse">
-                        <span></span>
-                    </div>
-                    <!-- /Collapse nav button -->
-                </div>
-
-                <!--  Main navigation  -->
-                <ul class="main-nav nav navbar-nav navbar-right">
-                    <li><a href="index.php?action=main">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li class="has-dropdown"><a href="#blog">Posts</a>
-                        <ul class="dropdown">
-                            <li><a href="blog-single.html">Latest Posts </a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#contact">Contact</a></li>
-                    <li><a href="index.php?action=signin">Log In</a></li>
-                    <li><a href="index.php?action=signup">Sign Up</a></li>
-                </ul>
-                <!-- /Main navigation -->
-
-            </div>
-        </nav>
+        <?php require_once __DIR__ . '\..\_nav.php' ?>
         <!-- /Nav -->
 
         <div class="home-wrapper">
@@ -123,7 +87,7 @@ else {
                     <div class="tab-content">
 
                         <div id="login">
-                            <h1>Welcome Back!</h1>
+                            <h1 class="white-text">Welcome Back!</h1>
 
                             <form action="index.php?action=signin" method="post" autocomplete="off" class="contact-form">
                                 <div class="col-md-8 col-md-offset-2">
