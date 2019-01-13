@@ -39,11 +39,13 @@ else { // Email doesn't already exist in a database, proceed...
 
         // Send registration confirmation link (verify.php)
         $to      = $email;
-        $subject = 'Portal Gaming Account Verification (noreply)';
+        $subject = 'wiktorlesiak.info Account Verification (noreply)';
         $message_body = '
         Hello '.$first_name.',
         
-        Thank you for signing up on portalgaming.com
+        Thank you for signing up on wiktorlesiak.info
+        
+        You can now access the news forum
         
         Please click this link to activate your account:
 

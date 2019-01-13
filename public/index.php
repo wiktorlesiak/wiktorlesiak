@@ -27,6 +27,9 @@ switch ($action) {
     case 'success':
         success_action();
         break;
+    case 'verify':
+        verify_action();
+        break;
     case 'login':
         login_action();
         break;
