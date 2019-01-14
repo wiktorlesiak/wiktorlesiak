@@ -79,6 +79,42 @@ function logout_action()
     {
         require_once __DIR__ . '/../templates/login/config.php';
 }
+/*ADMIN FUNCTION*/
+function admin_action()
+{
+    require_once __DIR__ . '/../templates/admin/admin.php';
+}
+function add_user_action()
+{
+    require_once __DIR__ . '/../templates/admin/add_user.php';
+}
 
+function delete_user_action()
+{
+    require_once __DIR__ . '/../templates/admin/delete_user.php';
+}
+function edit_user_action()
+{
+    require_once __DIR__ . '/../templates/admin/edit_user.php';
+}
+
+function add_update_action()
+{
+    require_once __DIR__ . '/../templates/admin/add_update.php';
+}
+
+function delete_update_action()
+{
+    require_once __DIR__ . '/../templates/admin/delete_update.php';
+}
+function edit_update_action()
+{
+    require_once __DIR__ . '/../templates/admin/edit_update.php';
+}
+function action_blog()
+{
+    require_once __DIR__ . '/../templates/blog.php';
+}
+/*END ADMIN FUNCTION*/
 
 

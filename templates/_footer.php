@@ -28,7 +28,7 @@
 
                 <!-- footer copyright -->
                 <div class="footer-copyright">
-                    <p>Copyright © 2017. All Rights Reserved. Designed by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+                    <p>Copyright © 2017. All Rights Reserved. Created by <a href="https://wiktorlesiak.info" target="_blank">Wiktor Lesiak</a></p>
                 </div>
                 <!-- /footer copyright -->
 

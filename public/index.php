@@ -26,6 +26,27 @@ switch ($action) {
     case 'success':
         success_action();
         break;
+    case 'admin':
+        admin_action();
+        break;
+    case 'add_user':
+        add_user_action();
+        break;
+    case 'edit_user':
+        edit_user_action();
+        break;
+    case 'delete_user':
+        delete_user_action();
+        break;
+    case 'add_update':
+        add_update_action();
+        break;
+    case 'edit_update':
+        edit_update_action();
+        break;
+    case 'delete_update':
+        delete_update_action();
+        break;
     case 'verify':
         verify_action();
         break;
@@ -38,6 +59,9 @@ switch ($action) {
     case 'reset':
         reset_action();
         break;
+        case 'blog':
+            action_blog();
+            break;
     case 'reset_password':
         reset_password_action();
         break;
