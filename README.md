@@ -7,4 +7,4 @@ TODO
 <li> <del>Create working sign up, login and log out.</del> </li>
 
 <li><del>Create post tab with updates and blog posts </del></li>
-<li> Update homepage information <li>
+<li> Update homepage information </li>
