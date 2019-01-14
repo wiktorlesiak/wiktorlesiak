@@ -12,6 +12,7 @@ session_start();
     $active = $_SESSION['admin'];
 
 ?>
+
 <!-- Nav -->
 <nav id="nav" class="navbar nav-transparent">
     <div class="container">
