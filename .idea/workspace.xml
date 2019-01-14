@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da5b961f-9828-4041-aa11-c852ee28fd79" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/_footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/_nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/_nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/admin/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog.php" afterDir="false" />
-    </list>
+    <list default="true" id="da5b961f-9828-4041-aa11-c852ee28fd79" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -492,12 +486,12 @@
       <workItem from="1540750561595" duration="9151000" />
       <workItem from="1540762012733" duration="4634000" />
       <workItem from="1547389811956" duration="1309000" />
-      <workItem from="1547391671444" duration="26021000" />
+      <workItem from="1547391671444" duration="26583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="261991000" />
+    <option name="totallyTimeSpent" value="262553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,7 +504,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="337" y="57" width="1785" height="1140" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14376812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
