@@ -1,2 +1,6 @@
-/.idea
-.php_cs.cache
+<html>
+<header><title>This is title</title></header>
+<body>
+Hello world
+</body>
+</html>
