@@ -45,8 +45,6 @@ else { // Email doesn't already exist in a database, proceed...
         
         Thank you for signing up on wiktorlesiak.info
         
-        You can now access the news forum
-        
         Please click this link to activate your account:
 
         http://localhost/index.php?action=verify&email='.$email.'&hash='.$hash;

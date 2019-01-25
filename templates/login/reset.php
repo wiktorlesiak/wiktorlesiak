@@ -30,34 +30,36 @@ else {
 <head>
   <meta charset="UTF-8">
   <title>Reset Your Password</title>
+    <?php require_once __DIR__ . '\..\_header.php' ?>
 </head>
-
+<header id="home">
+    <!-- Background Image -->
+    <div class="bg-img" style="background-image: url('./img/background9.jpg');">
+        <div class="overlay"></div>
+    </div>
 <body>
-    <div class="form">
+<div class="home-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="form">
 
           <h1>Choose Your New Password</h1>
           
           <form action="index.php?action=reset_password" method="post">
               
           <div class="field-wrap">
-            <label>
-              New Password<span class="req">*</span>
-            </label>
-            <input type="password"required name="newpassword" autocomplete="off"/>
+            <input type="password"required name="newpassword" autocomplete="off" placeholder="New Password"/>
           </div>
-              
+              <br>
           <div class="field-wrap">
-            <label>
-              Confirm New Password<span class="req">*</span>
-            </label>
-            <input type="password"required name="confirmpassword" autocomplete="off"/>
+            <input type="password"required name="confirmpassword" autocomplete="off" placeholder="Confirm New Password"/>
           </div>
           
           <!-- This input field is needed, to get the email of the user -->
           <input type="hidden" name="email" value="<?= $email ?>">    
-          <input type="hidden" name="hash" value="<?= $hash ?>">    
-              
-          <button class="button button-block"/>Apply</button>
+          <input type="hidden" name="hash" value="<?= $hash ?>">
+<br>
+              <button class="main-btn" type="submit" name="login"/>Apply</button>
           
           </form>
 
