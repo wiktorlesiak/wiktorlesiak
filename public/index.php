@@ -6,8 +6,8 @@ $action = filter_input(INPUT_GET, 'action');
 switch ($action) {
 
     case 'signin':
-    signin_action();
-    break;
+        signin_action();
+        break;
     case 'logout':
         logout_action();
         break;
@@ -59,9 +59,9 @@ switch ($action) {
     case 'reset':
         reset_action();
         break;
-        case 'blog':
-            action_blog();
-            break;
+    case 'blog':
+        action_blog();
+         break;
     case 'reset_password':
         reset_password_action();
         break;
@@ -69,6 +69,7 @@ switch ($action) {
         database_action();
         break;
     case 'main':
+
     default:
         index_action();
 }

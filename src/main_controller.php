@@ -79,6 +79,8 @@ function logout_action()
     {
         require_once __DIR__ . '/../templates/login/config.php';
 }
+
+
 /*ADMIN FUNCTION*/
 function admin_action()
 {
